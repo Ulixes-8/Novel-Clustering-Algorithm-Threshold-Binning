@@ -10,7 +10,6 @@
 6. Examples
 7. Performance Considerations
 8. Contributing
-9. License
 
 ### Introduction
 The Threshold Binning Clustering Algorithm is a custom clustering algorithm that works by grouping data points into bins based on a distance threshold. The algorithm uses the Jensen-Shannon distance as a metric to compare the similarity between data points and centroids of existing bins. It's especially useful for high-dimensional data where traditional clustering algorithms may not perform well.
@@ -49,5 +48,3 @@ The algorithm was primarily authored by Tariq U. Hawili during a data science in
 
 ### Contributing
 If you find any bugs, have feature requests, or would like to contribute to the development of this algorithm, please feel free to open an issue or submit a pull request on the GitHub repository.
-
-### License
